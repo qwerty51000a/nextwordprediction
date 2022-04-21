@@ -1,0 +1,19 @@
+// Sample input sentences. Sentences need not be related. (A sentence less than 4 words will be ignored)
+
+It will be very windy in the city tomorrow according to today's weather report 
+I went to school today
+This program uses long short term memory recurrent neural network
+If you look at the sky on a clear night you will see a lot of stars
+Do not judge a book by its cover
+Do not put all your eggs in one basket
+Fall seven times stand up eight
+The grass is always greener on the other side of the fence
+Trouble shared is a trouble halved
+March winds and April showers bring forth May flowers
+If it ain't broke don't fix it
+Live and learn
+The more the merrier
+The bigger the better
+Less is more
+Easy come easy go
+Go the extra mile
